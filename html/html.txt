@@ -1,0 +1,66 @@
+<html>
+<head>
+<title> hari </title>
+</head>
+<body bgcolor="dimgrey">
+<h1> h1</h1>
+<h2> h2</h2>
+<h3> h3 </h3>
+<h4> h4</h4>
+<h5> h5 </h5>
+<h6> h6 </h6>
+<ins> inserted text </ins><br>
+<kbd> keyboard text </kbd><br>
+<del> deleted text </del><br>
+<q> double quotes </q><br>
+<em> emphasized text </em><br>
+<i> itallics</i><br>
+<tt> type writer text </tt><br>
+<b> bold</b>
+<strong> strong</strong><br>
+<u> underline</u><br>
+log<sub>2</sub>10<br>
+x<sup>3</sup><br>
+<bdo dir="rtl"> by directional text </bdo><br>
+<pre>        @             @            @
+         @          @            @
+</pre><br>
+<marquee> artificial intelligence </marquee>
+<marquee behavior="alternate> machine learning</marquee>
+<marquee direction ="up"> hari</marquee>
+<marquee scrollamount="35"> hari</marquee.
+<marquee loop="10"> hari</marquee>
+<img src="https://www.cameraegg.org/wp-content/uploads/2016/01/Nikon-D500-Sample-Images-2.jpg" height="500" width="600">
+<a href="https://mail.google.com/mail/u/0/#inbox">gmail</a>
+<p style="color:red;font-family:algerian;backgroundcolor:yellow;"> HARI</P>
+<ol type="A" start="3">
+<li> smith
+<li> warner
+<li> finch
+</ol>
+<ul type="disc">
+<li> virat
+<li> dhoni
+<li> raina
+</ul>
+<dl>
+<dt> instagram</dt>
+<dd> Instagram[a] is an American photo and video sharing social networking service founded by Kevin Systrom and Mike Krieger. In April 2012, Meta Platforms (then Facebook Inc.) acquired the service for approximately US$1 billion in cash and stock. The app allows users to upload media that can be edited with filters and organized by hashtags and geographical tagging. Posts can be shared publicly or with pre-approved followers. Users can browse other users' content by tags and locations and view trending content. </dd>
+</dl>
+<table border="3">
+<caption> table readings</caption>
+<tr>
+<th>s.no
+<th> name
+</tr>
+<tr>
+<td> 1
+<td> hari
+</tr>
+<tr>
+<td> 2
+<td> ram
+</tr>
+</table>
+</body>
+</html>
