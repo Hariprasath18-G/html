@@ -1,0 +1,307 @@
+html body{
+    padding: 0;
+    margin: 0;
+}
+.container .navigation ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    line-height: 50px;
+}
+.container .navigation ul{
+    margin: 0px;
+}
+.navigation{
+    background-color: #111;
+    margin: 1px;
+    color: white;
+}
+.container .navigation .o{
+    font-size: xx-large;
+}
+.maincontent{
+    background-color: #262626;
+}
+.maincontent .content1 {
+    padding: 30px;
+}
+.content1 .leftcontent{
+    width: 50%;
+}
+.content1 .leftcontent h1{
+    color:  #ffdfc7;
+    font-size: 30px;
+    font-weight: 900;
+}
+.content1 .leftcontent p{
+    color:white;
+    font-size: 25px;
+}
+.content1 .leftcontent .po{
+    font-size: 35px;
+    font-weight: bolder;
+}
+.content1 .rightcontent{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    flex-flow: row;
+    margin-left: 280px;
+    background-color:  #111;
+    border-radius: 15px;
+    width: 30%;
+    height: 30%;
+}
+.content1 .rightcontent .image1 img{
+    width:50px;
+    height: 50px;
+}
+.content1 .rightcontent .image1{
+    width: 20%;
+    height: 10%;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.maincontent .content1{
+    display: flex;
+}
+.whitebox {
+    background-color: white;
+    width: 80%;
+    margin: 100px;
+    padding: 10px;
+}
+.whitebox .wbox .obox1{
+    background-color:#fff2df ;
+    width: 40%;
+    padding: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    box-sizing: border-box;
+    border-radius: 15px;
+}
+.whitebox .wbox .obox2{
+    background-color:#fff2df;
+    width: 30%;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 15px;
+    height: 20%;
+    margin: 100px;
+    box-sizing: border-box;
+}
+.whitebox .wbox .obox2 img{
+    height: 100px;
+    width: 100px;
+}
+.whitebox .wbox{
+    display: flex;
+}
+.whitebox .wbox .obox2 .b1{
+    margin: 10px;
+    width: 30%;
+    height: 20%;
+    background-color:  #5e5e5e; 
+}
+.l1 .z{
+    background: linear-gradient(rgba(156, 39, 176, 0.2), #fff);
+}
+.bb{
+    font-size: x-small;
+    background-color: black;
+    color: white;
+}
+.l2 .a{
+    background: linear-gradient(rgba(156, 39, 176, 0.2), #fff);
+}
+.bb1{
+    font-size: x-small;
+    background-color: black;
+    color: white;
+}
+.l3 .b{
+    background: linear-gradient(rgba(156, 39, 176, 0.2), #fff);
+}
+.bb2{
+    font-size: x-small;
+    background-color: black;
+    color: white;
+}
+.l4 .c{
+    background: linear-gradient(rgba(156, 39, 176, 0.2), #fff);
+}
+.bb3{
+    font-size: x-small;
+    background-color: black;
+    color: white;
+}
+.l5 .d{
+    background: linear-gradient(rgba(156, 39, 176, 0.2), #fff);
+}
+.bb4{
+    font-size: x-small;
+    background-color: black;
+    color: white;
+}
+.rightboxes .rrr{
+    display: flex;
+    flex-direction: row;
+}
+details{
+    padding: 30px;
+    width: 40%;
+}
+summary{
+    font-size: xx-large;
+}
+.blackbox1{
+    background-color: black;
+    color: white;
+    padding: 80px;
+    width: 200%;
+}
+.blackbox2{
+    background-color: black;
+    color: white;
+    padding: 40px;
+    width: 200%;
+}
+
+.blackbox3{
+    background-color: black;
+    color: white;
+    width: 200%;
+    padding: 40px;
+}
+.blackbox4{
+    background-color: black;
+    width: 200%;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.blackbox4 button{
+    color: white;
+    background-color: gray;
+    margin: 10px;
+}
+.blackbox4 .b3{
+    margin: left 500px; ;
+}
+.blackbox4 .wbo2{
+    background-color: white;
+}
+.blackbox4 .wbo2 div{
+    background-color: orange;
+    height: 75px;
+    width: 150px;
+    margin: 10px;
+}
+.wbo2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.blackbox5 .b5{
+    margin-left: 200px;
+}
+.blackbox5 .b8{
+    margin-left: 350px;
+}
+.blackbox6{
+    background-color: black;
+    color: white;
+    width: 200%;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.blackbox7{
+    background-color: black;
+    width: 200%;
+    padding-right: 40px;
+    padding-left: 40px;
+   margin-top: 20px;
+}
+.blackbox7 button{
+    background-color: gray;
+    color: white;
+}
+.blackbox7 .bluebox{
+    background-color: deepskyblue;
+    color: white;
+}
+.blackbox7 .bluebox ul li{
+    list-style: none;
+    margin: 5px;;
+}
+.blackbox8 .b5{
+    margin-left: 300px;
+}
+.blackbox8 .b8{
+    margin-left: 350px;
+}
+.blackbox9{
+    background-color: black;
+    color: white;
+    width: 200%;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.blackbox10{
+    background-color: black;
+    width: 200%;
+    padding-right: 40px;
+    padding-left: 40px;
+   margin-top: 20px;
+}
+.wbox5{
+    background-color: white;
+    padding: 15px;
+}
+.grid{
+    margin: 15px;
+}
+.grid .orange{
+    background-color: orange;
+    color: black;
+    text-align: center;
+}
+.boxes3 .yellowbox{
+    height: 150px;
+    width: 225px;
+    background-color: yellow;
+}
+.boxes3 .bluebox{
+    background-color: blue;
+    color: black;
+    height: 150px;
+    width: 470px;
+}
+.boxes3 .pinkbox{
+    background-color: pink;
+    color: black;
+    height: 150px;
+    width: 225px;
+}
+.boxes3{
+    display: flex;
+    flex-direction: row;
+}
+.grid .greenbox{
+    background-color: lightgreen;
+    color: black;
+    text-align: center;
+}
+.blackbox11{
+    background-color: black;
+}
+.blackbox11 button{
+    background-color:gray;
+    color: white;
+}
